@@ -1,1 +1,3 @@
 # Breast-Cancer-Detection
+Five primary methods are compared: random forest, decision tree, XGBoost, and logistic regression in the context of breast cancer diagnosis. The random forest approach comprises feature optimization together with bagging techniques for selecting data points. The bagging trees algorithm performs better than the optimal decision tree parameters. Furthermore, accuracy is successfully improved during the training phase by a feature optimization technique.
+Apart from the methods mentioned above, neural networks are another powerful tool used in machine learning for breast cancer diagnosis In order to increase accuracy, this provides a comprehensive analysis of several algorithms for the diagnosis of breast cancer achieving accuracy of 96.49%.
